@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/pavelbugaian46"><img src="https://api.daily.dev/devcards/v2/fDU7VfanErZh02MeSzni9.png?type=wide&r=uxf" width="652" alt="Pavel Bugaian's Dev Card"/></a>
+
 <!--
 **PavelBugaian/PavelBugaian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
